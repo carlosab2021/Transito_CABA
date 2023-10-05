@@ -100,4 +100,4 @@ Estos KPIs proporcionan una visión holística de la seguridad vial en CABA y ay
 
 Links de interés :[Visitar GitHub](https://github.com/carlosab2021/Transito_CABA)
 
-Se agrega al proyecto el archivo eda2.ipynb, donde se observa el paso a paso de las extracciones de los datos.  
+Se agrega al proyecto el archivo eda2.ipynb, donde se observa el paso a paso de las extracciones de los datos. [VER EDA](https://github.com/carlosab2021/Transito_CABA/blob/main/eda2.ipynb) 
