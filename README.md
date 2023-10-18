@@ -98,6 +98,37 @@ El objetivo establecido era reducir la cantidad de accidentes en un 12%, lo que 
 Esta situación pone de manifiesto la necesidad de implementar estrategias y medidas de prevención adicionales en las avenidas de CABA, con el objetivo de reducir la incidencia de accidentes y garantizar la seguridad de los usuarios de estas vías. Es fundamental evaluar las causas subyacentes de este aumento y desarrollar soluciones efectivas para abordar este desafío en particular. 
 Estos KPIs proporcionan una visión holística de la seguridad vial en CABA y ayudarán a evaluar el progreso hacia la reducción de accidentes y víctimas fatales. Su seguimiento constante permitirá tomar decisiones informadas para mejorar aún más la seguridad en las calles de la ciudad. </p>
 
+<p align="justify">Dadas las conclusiones y los KPIs presentados, es esencial considerar una serie de recomendaciones en áreas clave como legislación, infraestructura y concienciación para abordar los desafíos en la seguridad vial en la Ciudad Autónoma de Buenos Aires (CABA):
+
+<p align="center">Legislación:</p>
+
+<p align="justify">Revisión de sanciones: Evaluar y ajustar las sanciones para conductores que infringen las normas de tráfico, particularmente en avenidas. Establecer sanciones más severas para conductas peligrosas y aumentar la disuasión.
+
+Control de velocidad: Implementar leyes de control de velocidad efectivas en avenidas, junto con tecnología de control de velocidad y cámaras de vigilancia para garantizar el cumplimiento de estas normativas.
+
+Leyes de alcohol y drogas: Reforzar las leyes que prohíben conducir bajo la influencia de alcohol y drogas, y realizar controles aleatorios en áreas con altas tasas de accidentes.</p>
+
+<p align="center">Infraestructura:</p>
+
+<p align="justify">Mejora de señalización y semaforización: Evaluar y mejorar la señalización y la semaforización en avenidas para aumentar la visibilidad y comprensión de las normas de tráfico.
+
+Reducción de puntos negros: Identificar y abordar los puntos negros de accidentes mediante la implementación de medidas de seguridad vial, como rediseñar intersecciones peligrosas y mejorar la visibilidad en cruces.
+
+Infraestructura para motociclistas: Diseñar carriles exclusivos para motociclistas y zonas seguras de estacionamiento de motos para reducir el riesgo de accidentes y proteger a este grupo vulnerable.</p>
+
+<p align="center">Concienciación:</p>
+
+<p align="justify">Campañas de educación vial: Realizar campañas de concienciación que se centren en el respeto de las normas de tráfico, la importancia del uso de cascos y equipo de protección para motociclistas, y los riesgos de conducir bajo la influencia de sustancias.
+
+Programas de formación: Implementar programas de formación obligatorios para nuevos conductores que incluyan módulos específicos sobre seguridad vial, especialmente dirigidos a motociclistas.
+
+Participación de la comunidad: Fomentar la participación de la comunidad en la promoción de la seguridad vial a través de campañas de denuncia de conductas peligrosas y la promoción de buenas prácticas.
+
+Datos y análisis continuos: Mantener una vigilancia constante de los datos de accidentes y KPIs para evaluar la efectividad de las medidas implementadas y ajustarlas en consecuencia.
+
+Estas recomendaciones están destinadas a abordar los desafíos específicos identificados en los KPIs y contribuir a una mejora significativa en la seguridad vial en las avenidas de CABA, así como a la protección de los motociclistas en la ciudad. El enfoque en legislación, infraestructura y concienciación es fundamental para lograr un entorno vial más seguro.</p>
+
+
 Links de interés :[Visitar GitHub](https://github.com/carlosab2021/Transito_CABA)
 
 Se agrega al proyecto el archivo eda2.ipynb, donde se observa el paso a paso de las extracciones de los datos. [VER EDA](https://github.com/carlosab2021/Transito_CABA/blob/main/eda2.ipynb) 
