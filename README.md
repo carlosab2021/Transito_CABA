@@ -130,5 +130,6 @@ Estas recomendaciones están destinadas a abordar los desafíos específicos ide
 
 
 Links de interés :[Visitar GitHub](https://github.com/carlosab2021/Transito_CABA)
+[Visitar Luchemos Por la Vida](https://luchemos.org.ar/es/estadisticas)
 
 Se agrega al proyecto el archivo eda2.ipynb, donde se observa el paso a paso de las extracciones de los datos. [VER EDA](https://github.com/carlosab2021/Transito_CABA/blob/main/eda2.ipynb) 
